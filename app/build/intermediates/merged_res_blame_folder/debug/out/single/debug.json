@@ -4,18 +4,6 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_luar_jawa.png.flat",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_luar_jawa.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
@@ -52,8 +40,16 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_peralatan.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\layout\\fragment_peralatan.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_bg_wave.png.flat",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\bg_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\layout\\list_item_main.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_banner.jpg.flat",
@@ -68,16 +64,92 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_jabar.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.xml.flat",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\ic_back.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_bg_wave.png.flat",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\bg_wave.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_tab_background_unselected.xml.flat",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\tab_background_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_jabar.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\ic_jabar.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_jatim.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_jatim.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_tips.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\layout\\fragment_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_shape.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\bg_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_jatim.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\ic_jatim.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_half_rounded.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\bg_half_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_list_gunung.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\layout\\activity_list_gunung.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail_peralatan.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\layout\\activity_detail_peralatan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_rounded.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\bg_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail_gunung.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\layout\\activity_detail_gunung.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item_peralatan_tips.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\layout\\list_item_peralatan_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_banner.jpg.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\ic_banner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_luar_jawa.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_luar_jawa.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item_gunung.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\layout\\list_item_gunung.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\ic_back.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
@@ -88,16 +160,12 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\bg_wave.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_jatim.png.flat",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_jatim.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_jateng.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\ic_jateng.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_shape.xml.flat",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\bg_shape.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\layout\\toolbar_main.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_location.xml.flat",
@@ -112,32 +180,16 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\bg_wave.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar.xml.flat",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\layout\\toolbar.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_half_rounded.xml.flat",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\bg_half_rounded.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_rounded.xml.flat",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\bg_rounded.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_peralatan.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\layout\\activity_peralatan.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_profile.png.flat",
@@ -146,6 +198,10 @@
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_peralatan.xml.flat",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\ic_peralatan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_luar_jawa.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\src\\main\\res\\drawable\\ic_luar_jawa.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\infopendakian\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
